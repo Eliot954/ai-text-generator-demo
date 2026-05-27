@@ -36,7 +36,7 @@ Python + Hugging Face + Streamlit
 
 ## 用户流程图
 
-![用户流程图](user_flow.png)
+[![用户流程图](user_flow.png)](user_flow.png)
 
 # ai-text-genetator-demo
 AI文本生成小工具，使用Hugging Face和Streamlit
