@@ -35,7 +35,7 @@ Python + Hugging Face + Streamlit
 打开浏览器访问 http://localhost:8501 即可使用！
 
 ## 用户流程图
-
+<img width="1964" height="1273" alt="b3ebf21c514c119f1c3455efed7bf210" src="https://github.com/user-attachments/assets/fdd9008e-4592-4673-a0d2-874b334a782f" />
 [![用户流程图](user_flow.png)](user_flow.png)
 
 # ai-text-genetator-demo
